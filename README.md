@@ -23,3 +23,8 @@ npm run dev
 - `npm run build` - Cria uma build de produção
 - `npm run preview` - Visualiza a build de produção localmente
 - `npm run lint` - Executa o linter para verificar erros de código
+
+## Como acessar
+Clone o repositório clicando no botão '<>Code', ou acesse diretamente pelo link:
+
+https://cerezaportifolio.netlify.app/
